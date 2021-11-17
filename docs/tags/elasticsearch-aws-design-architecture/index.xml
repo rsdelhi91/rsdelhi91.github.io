@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>elasticsearch, AWS, Design, Architecture on Cloudy Dreams</title>
+    <link>https://rsdelhi91.github.io/tags/elasticsearch-aws-design-architecture/</link>
+    <description>Recent content in elasticsearch, AWS, Design, Architecture on Cloudy Dreams</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Nov 2021 15:48:08 +1100</lastBuildDate><atom:link href="https://rsdelhi91.github.io/tags/elasticsearch-aws-design-architecture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elasticsearch Snapshot Archival for the Brave</title>
+      <link>https://rsdelhi91.github.io/article/elasticsearch-snapshot-archival-for-the-brave/</link>
+      <pubDate>Tue, 16 Nov 2021 15:48:08 +1100</pubDate>
+      
+      <guid>https://rsdelhi91.github.io/article/elasticsearch-snapshot-archival-for-the-brave/</guid>
+      <description>This article is available in the Deloitte Platform Engineering website here. I wrote this back in 2018 when I was working on an interesting issue we were facing in getting access to Elasticsearch snapshot information.</description>
+    </item>
+    
+  </channel>
+</rss>

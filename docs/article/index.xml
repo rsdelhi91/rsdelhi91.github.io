@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on Cloudy Dreams</title>
+    <link>https://rsdelhi91.github.io/article/</link>
+    <description>Recent content in Articles on Cloudy Dreams</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Nov 2021 15:48:08 +1100</lastBuildDate><atom:link href="https://rsdelhi91.github.io/article/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elasticsearch Snapshot Archival for the Brave</title>
+      <link>https://rsdelhi91.github.io/article/elasticsearch-snapshot-archival-for-the-brave/</link>
+      <pubDate>Tue, 16 Nov 2021 15:48:08 +1100</pubDate>
+      
+      <guid>https://rsdelhi91.github.io/article/elasticsearch-snapshot-archival-for-the-brave/</guid>
+      <description>This article is available in the Deloitte Platform Engineering website here. I wrote this back in 2018 when I was working on an interesting issue we were facing in getting access to Elasticsearch snapshot information.</description>
+    </item>
+    
+    <item>
+      <title>Evaluation of Centralised vs Distributed Collaborative Intrusion Detection Systems in Multi-Access Edge Computing</title>
+      <link>https://rsdelhi91.github.io/article/centralised_vs_distributed_cids_in_mec/</link>
+      <pubDate>Tue, 16 Nov 2021 15:48:08 +1100</pubDate>
+      
+      <guid>https://rsdelhi91.github.io/article/centralised_vs_distributed_cids_in_mec/</guid>
+      <description>This paper was published in IFIP Networking 2020 and is available here
+The abstract of this paper is as follows:
+With the rapid adoption of next generation networking architectures in 5G, like Multi-Access Edge Computing (MEC), there is a shift in the core processing capabilities to the edge of the network. This helps facilitate higher bandwidth and ultra-low latency responses, but can increase the attack surface for cyber-attacks like Denial of Service (DoS) and Distributed Denial of Service (DDoS).</description>
+    </item>
+    
+  </channel>
+</rss>
