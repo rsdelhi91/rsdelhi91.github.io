@@ -1,0 +1,28 @@
+languageCode = 'en-us'
+title = 'Cloudy Dreams'
+theme = "ananke"
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 100
+googleAnalytics = ""
+enableRobotsTXT = true
+contentDir = "./content"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  author = "Rahul Sharma"
+  favicon = ""
+  site_logo = ""
+  description = "Cloudy with a twist"
+  github = "https://github.com/rsdelhi91"
+  linkedin = "https://au.linkedin.com/in/rahul-sharma-6a57146b"
+  background_color_class = "bg-black"
+  featured_image = "/images/tech.jpg"
+  recent_posts_number = 10
+  custom_css = ["css/custom.css"]
+  disable_share = true
