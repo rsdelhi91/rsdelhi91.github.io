@@ -9,6 +9,7 @@ Paginate = 100
 googleAnalytics = ""
 enableRobotsTXT = true
 contentDir = "./content"
+publishDir = "docs"
 
 [sitemap]
   changefreq = "monthly"
