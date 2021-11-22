@@ -1,6 +1,6 @@
 ---
 title: "Evaluation of Centralised vs Distributed Collaborative Intrusion Detection Systems in Multi-Access Edge Computing"
-date: 2021-11-16T15:48:08+11:00
+date: 2020-07-17T15:48:08+11:00
 draft: true
 featured_image: "/images/cids.png"
 tags: ["Research, MEC, Cybersecurity, 5G, CIDS"]
