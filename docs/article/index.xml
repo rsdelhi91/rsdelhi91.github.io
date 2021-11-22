@@ -6,25 +6,36 @@
     <description>Recent content in Articles on Cloudy Dreams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Nov 2021 15:48:08 +1100</lastBuildDate><atom:link href="https://rsdelhi91.github.io/article/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Nov 2021 15:48:08 +1100</lastBuildDate><atom:link href="https://rsdelhi91.github.io/article/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Elasticsearch Snapshot Archival for the Brave</title>
-      <link>https://rsdelhi91.github.io/article/elasticsearch-snapshot-archival-for-the-brave/</link>
-      <pubDate>Tue, 16 Nov 2021 15:48:08 +1100</pubDate>
+      <title>Evaluation of Collaborative Intrusion Detection System Architectures in Mobile Edge Computing</title>
+      <link>https://rsdelhi91.github.io/article/mec_cids_evaluation_book_chapter/</link>
+      <pubDate>Fri, 19 Nov 2021 15:48:08 +1100</pubDate>
       
-      <guid>https://rsdelhi91.github.io/article/elasticsearch-snapshot-archival-for-the-brave/</guid>
-      <description>This article is available in the Deloitte Platform Engineering website here. I wrote this back in 2018 when I was working on an interesting issue we were facing in getting access to Elasticsearch snapshot information.</description>
+      <guid>https://rsdelhi91.github.io/article/mec_cids_evaluation_book_chapter/</guid>
+      <description>This book chapter is published in Springer Nature and is available here
+The abstract of this book chapter is as follows:
+With the advent of 5th Generation (5G) of mobile networks, a diverse range of new computer networking technologies are being devised to meet the stringent demands of applications that require ultra-low latency, high bandwidth and geolocation-based services. Mobile Edge Computing (MEC) is a prominent example of such an emerging technology, which provides cloud computing services at the edge of the network using mobile base stations.</description>
     </item>
     
     <item>
       <title>Evaluation of Centralised vs Distributed Collaborative Intrusion Detection Systems in Multi-Access Edge Computing</title>
       <link>https://rsdelhi91.github.io/article/centralised_vs_distributed_cids_in_mec/</link>
-      <pubDate>Tue, 16 Nov 2021 15:48:08 +1100</pubDate>
+      <pubDate>Fri, 17 Jul 2020 15:48:08 +1100</pubDate>
       
       <guid>https://rsdelhi91.github.io/article/centralised_vs_distributed_cids_in_mec/</guid>
       <description>This paper was published in IFIP Networking 2020 and is available here
 The abstract of this paper is as follows:
 With the rapid adoption of next generation networking architectures in 5G, like Multi-Access Edge Computing (MEC), there is a shift in the core processing capabilities to the edge of the network. This helps facilitate higher bandwidth and ultra-low latency responses, but can increase the attack surface for cyber-attacks like Denial of Service (DoS) and Distributed Denial of Service (DDoS).</description>
+    </item>
+    
+    <item>
+      <title>Elasticsearch Snapshot Archival for the Brave</title>
+      <link>https://rsdelhi91.github.io/article/elasticsearch-snapshot-archival-for-the-brave/</link>
+      <pubDate>Wed, 22 Aug 2018 15:48:08 +1100</pubDate>
+      
+      <guid>https://rsdelhi91.github.io/article/elasticsearch-snapshot-archival-for-the-brave/</guid>
+      <description>This article is available in the Deloitte Platform Engineering website here. I wrote this back in 2018 when I was working on an interesting issue we were facing in getting access to Elasticsearch snapshot information.</description>
     </item>
     
   </channel>
