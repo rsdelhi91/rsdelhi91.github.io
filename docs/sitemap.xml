@@ -2,51 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rsdelhi91.github.io/article/</loc>
+    <loc>/article/</loc>
     <lastmod>2021-11-19T15:48:08+11:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://rsdelhi91.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2021-11-19T15:48:08+11:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://rsdelhi91.github.io/article/mec_cids_evaluation_book_chapter/</loc>
+    <loc>/article/mec_cids_evaluation_book_chapter/</loc>
     <lastmod>2021-11-19T15:48:08+11:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://rsdelhi91.github.io/tags/research-mec-cybersecurity-5g-cids/</loc>
+    <loc>/tags/research-mec-cybersecurity-5g-cids/</loc>
     <lastmod>2021-11-19T15:48:08+11:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://rsdelhi91.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2021-11-19T15:48:08+11:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://rsdelhi91.github.io/article/centralised_vs_distributed_cids_in_mec/</loc>
+    <loc>/article/centralised_vs_distributed_cids_in_mec/</loc>
     <lastmod>2020-07-17T15:48:08+11:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://rsdelhi91.github.io/article/elasticsearch-snapshot-archival-for-the-brave/</loc>
+    <loc>/article/elasticsearch-snapshot-archival-for-the-brave/</loc>
     <lastmod>2018-08-22T15:48:08+11:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://rsdelhi91.github.io/tags/elasticsearch-aws-design-architecture/</loc>
+    <loc>/tags/elasticsearch-aws-design-architecture/</loc>
     <lastmod>2018-08-22T15:48:08+11:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://rsdelhi91.github.io/about/</loc>
+    <loc>/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://rsdelhi91.github.io/categories/</loc>
+    <loc>/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

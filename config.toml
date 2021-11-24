@@ -1,4 +1,4 @@
-baseurl = "https://rsdelhi91.github.io/"
+baseurl = "/"
 languageCode = 'en-us'
 title = 'Cloudy Dreams'
 theme = "ananke"
