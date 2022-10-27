@@ -3,26 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/article/</loc>
-    <lastmod>2021-11-19T15:48:08+11:00</lastmod>
+    <lastmod>2022-06-09T15:48:08+11:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>/</loc>
-    <lastmod>2021-11-19T15:48:08+11:00</lastmod>
+    <lastmod>2022-06-09T15:48:08+11:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/article/mec_cids_evaluation_book_chapter/</loc>
-    <lastmod>2021-11-19T15:48:08+11:00</lastmod>
+    <loc>/article/hybrid_cids/</loc>
+    <lastmod>2022-06-09T15:48:08+11:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>/tags/research-mec-cybersecurity-5g-cids/</loc>
-    <lastmod>2021-11-19T15:48:08+11:00</lastmod>
+    <lastmod>2022-06-09T15:48:08+11:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>/tags/</loc>
+    <lastmod>2022-06-09T15:48:08+11:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>/article/mec_cids_evaluation_book_chapter/</loc>
     <lastmod>2021-11-19T15:48:08+11:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

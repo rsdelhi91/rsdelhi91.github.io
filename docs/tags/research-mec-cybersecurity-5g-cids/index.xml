@@ -6,7 +6,18 @@
     <description>Recent content in Research, MEC, Cybersecurity, 5G, CIDS on Cloudy Dreams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Nov 2021 15:48:08 +1100</lastBuildDate><atom:link href="/tags/research-mec-cybersecurity-5g-cids/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Jun 2022 15:48:08 +1100</lastBuildDate><atom:link href="/tags/research-mec-cybersecurity-5g-cids/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hybrid Collaborative Architectures For Intrusion Detection In Multi-Access Edge Computing</title>
+      <link>/article/hybrid_cids/</link>
+      <pubDate>Thu, 09 Jun 2022 15:48:08 +1100</pubDate>
+      
+      <guid>/article/hybrid_cids/</guid>
+      <description>This paper was published in IFIP NOMS 2022 and is available here
+The abstract of this paper is as follows:
+Multi-Access Edge Computing (MEC) provides high network bandwidth and ultra-low latency response time but also inherits the security vulnerabilities of cloud computing to Distributed Denial of Service (DDoS) attacks. To guard MEC nodes from such attacks, previous work has proposed the use of Collaborative Intrusion Detection Systems (CIDS) as a prime candidate for attack detection.</description>
+    </item>
+    
     <item>
       <title>Evaluation of Collaborative Intrusion Detection System Architectures in Mobile Edge Computing</title>
       <link>/article/mec_cids_evaluation_book_chapter/</link>
