@@ -9,6 +9,17 @@
     <lastBuildDate>Fri, 12 May 2023 15:48:08 +1100</lastBuildDate><atom:link href="/article/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Probabilistic Distributed Intrusion Detection For Zero-Trust Multi-Access Edge Computing</title>
+      <link>/article/phd_completed/</link>
+      <pubDate>Fri, 12 May 2023 15:48:08 +1100</pubDate>
+      
+      <guid>/article/phd_completed/</guid>
+      <description>My PhD thesis was uploaded onto The University of Melbourne archive and is available here
+The abstract of my thesis is as follows:
+With the advent of Fifth Generation (5G) mobile networks, a diverse range of new computer networking technologies are being devised to meet the stringent demands of applications that require ultra-low latency, high bandwidth and geolocation-based services. Multi-Access Edge Computing (MEC) is a prominent example of such an emerging technology, which provides cloud computing services at the edge of the network using mobile base stations.</description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Distributed Intrusion Detection For Zero-Trust Multi-Access Edge Computing</title>
       <link>/article/prob_cids/</link>
       <pubDate>Fri, 12 May 2023 15:48:08 +1100</pubDate>
       
