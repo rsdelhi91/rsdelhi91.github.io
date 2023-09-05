@@ -1,6 +1,6 @@
 ---
-title: "Probabilistic Distributed Intrusion Detection For Zero-Trust Multi-Access Edge Computing"
-date: 2023-05-12T15:48:08+11:00
+title: "PhD Completion"
+date: 2023-09-01T15:48:08+11:00
 draft: true
 featured_image: "/images/phd.png"
 tags: ["Research, Multi-Access Edge Computing, Mobile Edge Computing, Cyber Security, Intrusion Detection, Collaborative Intrusion Detection System, Zero Trust, 5G, Distributed System, DHT"]
