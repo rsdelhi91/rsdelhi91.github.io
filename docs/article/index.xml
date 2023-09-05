@@ -6,7 +6,18 @@
     <description>Recent content in Articles on Cloudy Dreams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Jun 2022 15:48:08 +1100</lastBuildDate><atom:link href="/article/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 May 2023 15:48:08 +1100</lastBuildDate><atom:link href="/article/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Probabilistic Distributed Intrusion Detection For Zero-Trust Multi-Access Edge Computing</title>
+      <link>/article/prob_cids/</link>
+      <pubDate>Fri, 12 May 2023 15:48:08 +1100</pubDate>
+      
+      <guid>/article/prob_cids/</guid>
+      <description>This paper was published in IFIP NOMS 2023 and is available here
+The abstract of this paper is as follows:
+With the advent of Multi-Access Edge Computing (MEC) in 5G, there is a shift in the core processing and deployment of applications to the edge of the network. This enables applications requiring ultra low latency response times and high bandwidth but also exposes them to new cyber attacks. One of the proposed ways to strengthen application security in MEC is to use Zero Trust Strategies (ZTS).</description>
+    </item>
+    
     <item>
       <title>Hybrid Collaborative Architectures For Intrusion Detection In Multi-Access Edge Computing</title>
       <link>/article/hybrid_cids/</link>
