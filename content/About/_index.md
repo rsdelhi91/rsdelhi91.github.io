@@ -4,4 +4,4 @@ description: "A Platform Engineer at heart who loves dabbling in Cloud Technolog
 featured_image: "/images/lights.jpg"
 ---
 
-I'm a Senior Platform Engineer and a current PhD student, working on edge computing based use-cases. I have also been teaching multiple Masters level subjects like Computer Networking, Java, IT Project and Change Management, Cyber Security, and Software Processes and Management at the University of Melbourne since 2015. Would be keen to have a chat on any of the above :)
+I hold a PhD from The University of Melbourne and am also a Senior Platform Engineer, working on edge networking based use-cases. I have also been teaching multiple Masters level subjects like Computer Networking, Java, IT Project and Change Management, Cyber Security, and Software Processes and Management at the University of Melbourne since 2015. Would be keen to have a chat on any of the above :)
